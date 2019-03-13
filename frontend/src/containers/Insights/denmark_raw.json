@@ -1,0 +1,282 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.888060698,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.689128368,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.886264358,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.767491274,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.862448459,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.106338493,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.487416196,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.423826892,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.431499577,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.106617014,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.602345626,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.11253984,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.026017188,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.336312781,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.123123471,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.274319273,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.856264979,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.128106534,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.516365799,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.701930021,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.415199616,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.978961484,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.169926034,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.39103605,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.69769892,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.383665299,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 9.196442399,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.24519082,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.62739066,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.741491158,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 7.982652283,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 8.837705045,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 9.516747441,
+    "Forecast": 9.89311574326021
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 9.333762106,
+    "Forecast": 8.38497887694247
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": 9.09696092,
+    "Forecast": 10.284577935465421
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 8.506712458390872
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 8.602609153907053
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 8.40693762452426
+  },
+  {
+    "Time_Period": "2018-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 8.388881235381046
+  },
+  {
+    "Time_Period": "2018-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 8.306722425976918
+  }
+]

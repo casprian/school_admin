@@ -1,0 +1,289 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 185,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 167,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 204,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 195,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 191,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 202,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 198,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 196,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 197,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 200,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 188,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 185,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 171,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 173,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 183,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 179,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 189,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 194,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 187,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 199,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 191,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 197,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 197,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 189,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 191,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 174,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 200,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 192,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 206,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 204,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 198,
+    "Forecast": 196.65990049067995
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 207,
+    "Forecast": 210.35229099580363
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 200,
+    "Forecast": 199.93448470350484
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 217,
+    "Forecast": 204.69194612362122
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 213,
+    "Forecast": 206.67892528829293
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": 206,
+    "Forecast": 203.63067935913696
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 206.4155825698146
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 204.20303620637733
+  },
+  {
+    "Time_Period": "2018-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 198.1323666331408
+  },
+  {
+    "Time_Period": "2018-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 201.71042086129663
+  },
+  {
+    "Time_Period": "2018-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 200.24784917048092
+  }
+]

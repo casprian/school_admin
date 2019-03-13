@@ -1,0 +1,254 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.246690439,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.301724913,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 17.228356244,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 14.946314644,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.301349878,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.724773013,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.20017795,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.926454185,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.407897991,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.456587734,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 14.520371184,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.189311674,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 12.359534081,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 14.989580039,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.44023144,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 14.967922137,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.039692003,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.007672718,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.712288765,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.225192721,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 15.981147423,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.234747235,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 17.587504306,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 20.675451876,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 16.875334807,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 17.879707562,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 20.453833586,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 17.299548905,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 19.415478551,
+    "Forecast": 21.466476743568244
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 19.342058407,
+    "Forecast": 19.586257209577006
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": 19.571853838,
+    "Forecast": 15.639212512204853
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 13.337826572470636
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 18.763627700267424
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 16.38755376790363
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 16.458742796569087
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "Australia",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 16.049300564451695
+  }
+]

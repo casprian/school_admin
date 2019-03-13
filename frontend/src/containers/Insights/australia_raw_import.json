@@ -1,0 +1,282 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.437254917,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.243927672,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.031166186,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.726869076,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.246493215,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 18.174231743,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 18.414196379,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.604518696,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.663024033,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 18.128817286,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.644529957,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.54245163,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 14.79698197,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 15.67614532,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 15.900833605,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 15.724848345,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 15.507839187,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.952223411,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.241896296,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.59982509,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.267708376,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.107560919,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.560235549,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.250370187,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 16.596947339,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 15.361108393,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 17.850728973,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 15.790163939,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 20.185918838,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 18.116686693,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 24.056081826,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 21.449318376,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 21.299440898,
+    "Forecast": 26.744411617319965
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 19.313475667,
+    "Forecast": 21.42558867871219
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": 18.885718696,
+    "Forecast": 16.00263947599382
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 19.358243240414915
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 18.794064236043646
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 18.268049726824785
+  },
+  {
+    "Time_Period": "2018-03-31",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 14.281343471769416
+  },
+  {
+    "Time_Period": "2018-04-30",
+    "Country": "Australia",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 11.743232786146251
+  }
+]

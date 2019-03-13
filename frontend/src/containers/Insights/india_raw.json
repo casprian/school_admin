@@ -1,0 +1,247 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 24.252679781,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.576297182,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 24.041012835,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.80348755,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.989360778,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.093203805,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.382185227,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.068032868,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.420791727,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.127714371,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 19.074646118,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.250421022,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 20.751735815,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 20.49830254,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.555114277,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 20.322399244,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.067503723,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.463728893,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.452573887,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.26119826,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.543970519,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 22.976035321,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 19.795470918,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 23.658589671,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 21.936667025,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 24.206859848,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 28.802091026,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 23.739509584,
+    "Forecast": 27.982523384972197
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 23.740101911,
+    "Forecast": 25.377053494274666
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": 23.319775248,
+    "Forecast": 23.32829474194707
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 21.574903243215804
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 22.98495835686455
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 23.275146516275935
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 22.967792911463263
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "India",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 23.73749920199705
+  }
+]

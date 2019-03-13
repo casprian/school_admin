@@ -1,0 +1,28 @@
+.SimpleTable {
+  margin: 1px;
+  border:none;
+  height:300px;
+  width: 100%;
+  overflow: auto;
+  table{
+  width: 100%;
+  tr
+  {
+  	width: 100%;
+    &:nth-child(1) {
+      background: #333;
+      color:#fff;
+      padding:7px;
+    }
+  	&:nth-child(even) {
+  		background: rgba(0,0,0,0.03);
+  	}
+  	td {
+  		border: none;
+  		width:50%;
+  		padding:5px;
+      text-align:center;
+  	}
+  }
+ 
+}}

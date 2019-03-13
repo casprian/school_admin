@@ -1,0 +1,289 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.347164947,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.837141214,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.514156432,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.686402732,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.755501326,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.716331655,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.906909328,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.78362054,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.456154353,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.514448691,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.859640255,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.831709421,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.523583531,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.981445801,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.029404632,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.035160595,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.062701946,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.24834649,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.304818418,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.939232284,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.746972434,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.681117978,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.42658698,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.854032987,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.917901486,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.727757258,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.875767613,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 6.664394814,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.682428115,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.761576016,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.470379541,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 8.105455124,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 8.13516176,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 8.597917977,
+    "Forecast": 7.930865201532455
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 8.5435451,
+    "Forecast": 7.586660003349806
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": 7.809554227,
+    "Forecast": 8.273513193029004
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 8.494548983738312
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 8.241504990526352
+  },
+  {
+    "Time_Period": "2018-03-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 8.791474186346676
+  },
+  {
+    "Time_Period": "2018-04-30",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 8.303541515326344
+  },
+  {
+    "Time_Period": "2018-05-31",
+    "Country": "Denmark",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 8.061445246905862
+  }
+]

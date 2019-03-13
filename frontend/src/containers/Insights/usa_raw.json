@@ -1,0 +1,289 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 121.439,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 118.286,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 133.281,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 128.247,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 128.142,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 130.946,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 124.094,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 123.021,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 125.331,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 130.559,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 120.682,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 119.841,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 108.369,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 113.731,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 125.401,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 119.004,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 119.566,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 124.994,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 116.118,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 122.727,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 124.484,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 128.717,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 123.427,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 126.629,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 117.644,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 119.289,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 135.568,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 123.683,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 127.964,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 133.028,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 122.102,
+    "Forecast": 124.37725722917438
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 129.232,
+    "Forecast": 129.99024071189717
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 129.99,
+    "Forecast": 135.7168833229387
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 135.963,
+    "Forecast": 132.03002814313254
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 135.24,
+    "Forecast": 130.79427680199836
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": 136.367,
+    "Forecast": 141.07931834579497
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 137.6445230490737
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 143.40505763490376
+  },
+  {
+    "Time_Period": "2018-03-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 119.92362631342982
+  },
+  {
+    "Time_Period": "2018-04-30",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 133.2834544050742
+  },
+  {
+    "Time_Period": "2018-05-31",
+    "Country": "USA",
+    "Trade_Metric": "Exports",
+    "Actual": "",
+    "Forecast": 135.23215037788015
+  }
+]

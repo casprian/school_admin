@@ -1,0 +1,289 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 16.873839267,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 14.932172572,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 16.518673359,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 14.66606342,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 14.01083263,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 15.099376197,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 16.146430379,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.794391774,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 13.202278142,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 14.05311248,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.605807681,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 10.543233761,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 10.322637679,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 10.301097217,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.560717619,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 10.509741662,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.136159386,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.769486773,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.752696206,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.848449517,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.987439087,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.375442181,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.462652908,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 11.525482231,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.19781222,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 10.913268165,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.937668769,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 10.716651947,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.129010584,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.595230268,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.473402051,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 13.879229349,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 13.488324102,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 13.678839517,
+    "Forecast": 13.2528665163535
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 13.14250335,
+    "Forecast": 14.623270718953663
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": 12.597512127,
+    "Forecast": 13.3743745599275
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 12.538697128095691
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 12.507519623187443
+  },
+  {
+    "Time_Period": "2018-03-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 12.479062003219692
+  },
+  {
+    "Time_Period": "2018-04-30",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 12.39912458405473
+  },
+  {
+    "Time_Period": "2018-05-31",
+    "Country": "Brazil",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 12.493649854012808
+  }
+]

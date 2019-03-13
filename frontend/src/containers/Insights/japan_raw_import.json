@@ -1,0 +1,268 @@
+[
+  {
+    "Time_Period": "2015-01-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 61.852130545,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-02-28",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.697453346,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-03-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 55.684139691,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-04-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 55.268483657,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-05-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 49.328386919,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-06-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.056607749,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-07-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 56.183463272,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-08-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 52.32329451,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-09-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 54.328564723,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-10-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.609638451,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-11-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 51.954656173,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2015-12-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 50.843367646,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-01-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 50.710683278,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-02-29",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 47.475166554,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-03-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 50.479120245,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-04-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 46.092671818,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-05-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 47.079904952,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-06-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 50.571840754,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-07-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 50.194032305,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-08-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 52.728187183,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-09-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.708644272,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-10-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 51.808909834,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-11-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.97305433,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2016-12-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 52.103508555,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-01-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 56.731268467,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-02-28",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 48.639172931,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-03-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 58.537519676,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-04-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.13675306,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-05-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 53.941923218,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-06-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 55.619898069,
+    "Forecast": ""
+  },
+  {
+    "Time_Period": "2017-07-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 54.039418666,
+    "Forecast": 54.5995943583723
+  },
+  {
+    "Time_Period": "2017-08-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 56.099900154,
+    "Forecast": 54.93246498089538
+  },
+  {
+    "Time_Period": "2017-09-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": 55.48680195,
+    "Forecast": 55.2333211990211
+  },
+  {
+    "Time_Period": "2017-10-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 56.1908913503615
+  },
+  {
+    "Time_Period": "2017-11-30",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 56.05706316220569
+  },
+  {
+    "Time_Period": "2017-12-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 53.961351549528196
+  },
+  {
+    "Time_Period": "2018-01-31",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 56.07489212849208
+  },
+  {
+    "Time_Period": "2018-02-28",
+    "Country": "Japan",
+    "Trade_Metric": "Imports",
+    "Actual": "",
+    "Forecast": 54.40906027746908
+  }
+]
